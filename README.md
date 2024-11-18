@@ -7,23 +7,18 @@
 
 ## 🗓️ Método de Organização
 
-Este repositório está separado por Sprints*, cada uma delas com sua respectiva Branch*:
-* <a href="https://gitlab.com/projeto8325632/Dossier-PB-Compasso/-/tree/pb_sprint1?ref_type=heads">**pb_sprint1** 👈<a> (Material da Sprint 1)
-* <a href="https://gitlab.com/projeto8325632/Dossier-PB-Compasso/-/tree/pb_sprint2?ref_type=heads">**pb_sprint2** 👈<a> (Material da Sprint 2)
-* <a href="https://gitlab.com/projeto8325632/Dossier-PB-Compasso/-/tree/pb_sprint3?ref_type=heads">**pb_sprint3** 👈<a> (Material da Sprint 3)
-* <a href="https://gitlab.com/projeto8325632/Dossier-PB-Compasso/-/tree/pb_sprint4?ref_type=heads">**pb_sprint4** 👈<a> (Material da Sprint 4)
-* <a href="https://gitlab.com/projeto8325632/Dossier-PB-Compasso/-/tree/pb_sprint5?ref_type=heads">**pb_sprint5** 👈<a> (Material da Sprint 5)
-* <a href="https://gitlab.com/projeto8325632/Dossier-PB-Compasso/-/tree/pb_sprint6?ref_type=heads">**pb_sprint6** 👈<a> (Material da Sprint 6)
-* <a href="https://gitlab.com/projeto8325632/Dossier-PB-Compasso/-/tree/pb_sprint7?ref_type=heads">**pb_sprint7** 👈<a> (Material da Sprint 7)
-* <a href="https://gitlab.com/projeto8325632/Dossier-PB-Compasso/-/tree/pb_sprint8?ref_type=heads">**pb_sprint8** 👈<a> (Material da Sprint 8)
+Este repositório está separado por etapas de teste, cada uma delas com sua respectiva Branch*:
 
-Para acessar cada uma delas separadamente basta `clicar` no nome de cada uma delas a cima ou seguir o `passo a passo`: 
-
-<div align="left">
-<img src="https://github.com/user-attachments/assets/d5bb85f0-ee9b-43f5-bcae-14e5d8fde556" width="350px">
-</div>
+* <a href="https://gitlab.com/projeto8325632/Dossier-PB-Compasso/-/tree/pb_sprint2?ref_type=heads">**Organization** 👈<a> (Sprints 1 a 3)
+* <a href="https://gitlab.com/projeto8325632/Dossier-PB-Compasso/-/tree/pb_sprint3?ref_type=heads">**Exploratory testing** 👈<a> (Sprint 4) 
+* <a href="https://gitlab.com/projeto8325632/Dossier-PB-Compasso/-/tree/pb_sprint4?ref_type=heads">**Automated testing with AI** 👈<a> (Sprints 5 a 7)
+* <a href="https://gitlab.com/projeto8325632/Dossier-PB-Compasso/-/tree/pb_sprint5?ref_type=heads">**Manual testing with postman** 👈<a> (Sprints 2 a 6)
+* <a href="https://gitlab.com/projeto8325632/Dossier-PB-Compasso/-/tree/pb_sprint6?ref_type=heads">**Mocha-chai** 👈<a> (Sprints )
+* <a href="https://gitlab.com/projeto8325632/Dossier-PB-Compasso/-/tree/pb_sprint7?ref_type=heads">**Playwright n IA** 👈<a> (Sprints )
+* <a href="https://gitlab.com/projeto8325632/Dossier-PB-Compasso/-/tree/pb_sprint8?ref_type=heads">**Agradecimentos Finais** 👈<a>
 
 >Obs.: Todas as palavras com um * no final representam palavras cuja descrição detalhada está ao final desta página, em <a href="https://gitlab.com/projeto8325632/Dossier-PB-Compasso/-/tree/master?ref_type=heads#-dicion%C3%A1rio-do-reposit%C3%B3rio"> _**Dicionário do Repositório**_ <a>.
+
 
 ## 📋 É sua primeira vez por aqui ?
 
