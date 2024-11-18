@@ -9,15 +9,15 @@
 
 Este repositório está separado por etapas de teste, cada uma delas com sua respectiva Branch*:
 
-* <a href="https://gitlab.com/projeto8325632/Dossier-PB-Compasso/-/tree/pb_sprint2?ref_type=heads">**Organization** 👈<a> (Sprints 1 a 3)
-* <a href="https://gitlab.com/projeto8325632/Dossier-PB-Compasso/-/tree/pb_sprint3?ref_type=heads">**Exploratory testing** 👈<a> (Sprint 4) 
-* <a href="https://gitlab.com/projeto8325632/Dossier-PB-Compasso/-/tree/pb_sprint4?ref_type=heads">**Automated testing with AI** 👈<a> (Sprints 5 a 7)
-* <a href="https://gitlab.com/projeto8325632/Dossier-PB-Compasso/-/tree/pb_sprint5?ref_type=heads">**Manual testing with postman** 👈<a> (Sprints 2 a 6)
-* <a href="https://gitlab.com/projeto8325632/Dossier-PB-Compasso/-/tree/pb_sprint6?ref_type=heads">**Mocha-chai** 👈<a> (Sprints )
-* <a href="https://gitlab.com/projeto8325632/Dossier-PB-Compasso/-/tree/pb_sprint7?ref_type=heads">**Playwright n IA** 👈<a> (Sprints )
-* <a href="https://gitlab.com/projeto8325632/Dossier-PB-Compasso/-/tree/pb_sprint8?ref_type=heads">**Agradecimentos Finais** 👈<a>
+* <a href="https://gitlab.com/projeto8325632/Challenge-Final/-/tree/organization?ref_type=heads">**Organization** 👈<a> (Sprints 1 a 3)
+* <a href="https://gitlab.com/projeto8325632/Challenge-Final/-/tree/Exploratory_testing?ref_type=heads">**Exploratory testing** 👈<a> (Sprint 4) 
+* <a href="https://gitlab.com/projeto8325632/Challenge-Final/-/tree/Manual_testing_with_postman?ref_type=heads">**Manual testing with postman** 👈<a> (Sprints 2 a 6)
+* <a href="https://gitlab.com/projeto8325632/Challenge-Final/-/tree/Automated_testing_with_AI?ref_type=heads">**Automated testing with AI** 👈<a> (Sprints 5 a 7)
+* <a href="https://gitlab.com/projeto8325632/Challenge-Final/-/tree/Mocha-chai?ref_type=heads">**Mocha-chai** 👈<a> (Sprints )
+* <a href="https://gitlab.com/projeto8325632/Challenge-Final/-/tree/playwright_n_AI?ref_type=heads">**Playwright n IA** 👈<a> (Sprints )
+* <a href="https://gitlab.com/projeto8325632/Challenge-Final/-/tree/Agradecimentos_Finais?ref_type=heads">**Agradecimentos Finais** 👈<a>
 
->Obs.: Todas as palavras com um * no final representam palavras cuja descrição detalhada está ao final desta página, em <a href="https://gitlab.com/projeto8325632/Dossier-PB-Compasso/-/tree/master?ref_type=heads#-dicion%C3%A1rio-do-reposit%C3%B3rio"> _**Dicionário do Repositório**_ <a>.
+>Obs.: Todas as palavras com um * no final representam palavras cuja descrição detalhada está ao final desta página, em <a href="https://gitlab.com/projeto8325632/Challenge-Final#-dicion%C3%A1rio-do-reposit%C3%B3rio"> _**Dicionário do Repositório**_ <a>.
 
 
 ## 📋 É sua primeira vez por aqui ?
@@ -28,7 +28,7 @@ Você está em um repositório* do <a href="https://about.gitlab.com/pt-br/why-g
 
 Neste repositório você encontra um Dossier de documentos sobre meu percurso de estudo e atividades do Programa de Bolsas na empresa <a href="https://compass.uol/pt/home/"> _**Compass.uol**_ <a><br>
 
-Aqui os materiais estão devidamente dividos em Sprints que nesse caso equivalem a 2 semanas, ou seja, cada uma conta com 10 dias de conteúdos desenvolvidos separadamente, sendo:
+Neste repositório você terá acesso ao materiais e conteúdos do Challenge Final da Sprint 8, mas caso deseje acessar os materiais das Sprints anteriores eles estão devidamente dividos em Sprints que nesse caso equivalem a 2 semanas, ou seja, cada uma conta com 10 dias de conteúdos desenvolvidos separadamente, sendo:
 
 - <a href="https://gitlab.com/projeto8325632/Dossier-PB-Compasso/-/tree/pb_sprint1?ref_type=heads">Sprint 1<a> - Processos Ágeis e Fundamentos de Teste
 
@@ -139,8 +139,6 @@ Aqui os materiais estão devidamente dividos em Sprints que nesse caso equivalem
 
 Além disso, caso prefira, todas as primeiras versões de cada resumo de Sprint estão armazenadas na <a href="https://gitlab.com/projeto8325632/Dossier-PB-Compasso/-/wikis/pages">WIKI*<a> desse repositório.<br> 
 Em fim, ao topo de cada Branch, como esta, você encotrará algumas pastas com a descrição de seu conteúdo, por exemplo:
-- **Pasta/RESUMOS-SPRINTS:** Você encontra todos os resumos das Sprint já realizadas.
-- **Pasta/SOLUÇÕES-SPRINTS:** Você encontra as resoluções de todos os exercícios já realizados.
 
 ## 🤖 Tecnologias e Ferramentas relacionadas
 
@@ -156,6 +154,11 @@ Em fim, ao topo de cada Branch, como esta, você encotrará algumas pastas com a
  | <a href="https://xmind.app">**XMind**<a> | <img aligh="center" height="40" width="40" src="https://github.com/user-attachments/assets/8dfd9852-0447-4de0-9660-e25c3a2a9196" /> | Um software de mapeamento mental e brainstorming, o aplicativo pode ser usado para visualizar ideias, esclarecer pensamentos, gerenciar informações complexas e promover a colaboração em equipe |
  | <a href="https://www.postman.com/downloads/">**Postman**<a> | <img aligh="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" /> | Um API Client que facilita aos desenvolvedores criar, compartilhar, testar e documentar APIs. Isso é feito, permitindo aos usuários criar e salvar solicitações HTTP e HTTPs simples e complexas, bem como ler suas respostas |
  | <a href="https://www.atlassian.com/software/jira">**Jira**<a> | <img aligh="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" /> | Um software comercial desenvolvido pela empresa Australiana Atlassian. É uma ferramenta que permite o monitoramento de tarefas e acompanhamento de projetos garantindo o gerenciamento de todas as suas atividades em único lugar |
+ | <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">**JavaScript**<a> | <img aligh="center" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" /> | É uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma (protótipos, orientado a objeto, imperativo e funcional). Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web. JavaScript permite páginas da Web interativas e, portanto, é uma parte essencial dos aplicativos da web.  |
+ | <a href="https://medium.com/@rafaelvicio/testando-api-rest-com-mocha-e-chai-bf3764ac2797">**Mocha-chai**<a> | <img aligh="center" height="50" width="120" src="https://miro.medium.com/v2/resize:fit:1200/1*xoCTbjx65LNhVCw1tIpXug.png" /> |  São duas ferramentas amplamente utilizadas para testes. Mocha é um framework de teste flexível e extensível, enquanto Chai é uma biblioteca de asserções que facilita a escrita de testes |
+ | <a href="https://playwright.dev">**Playwright**<a> | <img aligh="center" height="60" width="60" src="https://miro.medium.com/v2/resize:fit:646/1*gMiUPuRGC36nxZHe2zthOg.png" /> | É uma biblioteca Node. js para automatizar o Chromium, o Firefox e o WebKit com uma única API. O Playwright foi desenvolvido para permitir a automação da Web entre navegadores que seja perene, capaz, confiável e rápida. |
+ | <a href="https://gemini.google.com/?hl=pt-BR">**GeminiAI**<a> | <img aligh="center" height="60" width="60" src="https://t.ctcdn.com.br/aA_kLoUFvEFOs2JIivPn1CGu1QI=/640x360/smart/i832645.jpeg" /> |  Anteriormente conhecido como Bard, é um chatbot desenvolvido pelo Google, baseado na família de modelos de linguagem LaMDA. Foi criado como uma resposta direta ao ChatGPT da OpenAI, e foi lançado em uma capacidade limitada em março de 2023, sendo substituído por uma versão mais avançada em fevereiro de 2024, chamada de Gemini 1.5 |
+ | <a href="https://flowiseai.com">**FlowiseAI**<a> | <img aligh="center" height="60" width="80" src="https://remarkable-smakager-ddb2b7.netlify.app/opengraph-image.png?2eca201df198027c" /> | É uma ferramenta de Inteligência Artificial inovadora que permite criar aplicativos LLMs (Linguagem e Modelo de Aprendizado) de forma fácil e eficiente |
 
  >Obs.: Se quiser saber mais sobre algum um dos itens citados acima basta clicar em seu nome.
 
